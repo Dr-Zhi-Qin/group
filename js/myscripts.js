@@ -19,7 +19,7 @@ document.getElementById("myFooter").innerHTML =
 	+"<div class='footer-col'>"
 	+"<ul class='contact-list'>"
 	+"<li>"
-	+"Bo Zhao"
+	+"Zhi Qin"
 	+"</li>"
 	+"<li><a href='https://www.sdu.edu.cn/'"
 	+"target='_blank'>Optics and Thermal Radiation Research Center</a></li>"
